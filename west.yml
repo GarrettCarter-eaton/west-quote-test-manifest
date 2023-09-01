@@ -1,0 +1,10 @@
+manifest:
+  remotes:
+    - name: github
+      url-base: https://github.com/GarrettCarter-eaton
+  projects:
+    - name: west-quote-test-dep
+      remote: github
+      revision: master
+self:
+    path: west-quote-test-manifest
