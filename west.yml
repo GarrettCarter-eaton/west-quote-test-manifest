@@ -5,6 +5,6 @@ manifest:
   projects:
     - name: west-quote-test-dep
       remote: github
-      revision: branch-with-'-quote
+      revision: bb4143e
 self:
     path: west-quote-test-manifest
